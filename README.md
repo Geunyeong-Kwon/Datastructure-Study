@@ -1,2 +1,2 @@
-# Markdown-Study
-마크다운 공부하기
+# Datastructure-Study
+자료구조 공부하기
